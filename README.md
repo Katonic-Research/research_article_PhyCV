@@ -1,4 +1,4 @@
-# Research article for PhyCV: The First Physics-inspired Computer Vision Library
+# PhyCV: The First Physics-inspired Computer Vision Library
 
 This App tells about research article for **PhyCV: The First Physics-inspired Computer Vision Library**
 
