@@ -10,7 +10,7 @@ env:
   USER: ${{secrets.USER}}
   PASSWORD: ${{secrets.PASSWORD}}
   REPOSITORY_NAME: accelerators
-  TAG: research-article-phcv
+  TAG: research-article-phycv
 
 jobs:
 
